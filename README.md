@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**bhushanstack/bhushanstack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, World!
 
-Here are some ideas to get you started:
+Welcome to my very first GitHub repository! I'm just getting started on my coding journey, and this is where I'll be practicing and learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQyMWFsenB2bDduemhoNWQzM3Zqd2k1NHBxYXk3Z3FrdWxrZmxiYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" alt="A cat in a hoodie looking surprised" width="300">
+</div>
+
+<div align="center">
+
+Thanks for stopping by! 🐱
+
+</div>
